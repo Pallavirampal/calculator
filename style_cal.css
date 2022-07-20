@@ -1,0 +1,26 @@
+#sec_container{
+    text-align: center;
+    margin: 23px;
+}
+.result{
+    display: inline-block;
+    background-color: rgb(90, 203, 203);
+    border-radius: 40px;
+    padding: 25px;
+}
+table{
+    margin: auto;
+    padding-top: 10px;
+}
+button{
+    font-size: 40px;
+    background-color: aqua;
+    width: 102px;
+    height: 58px;
+    border-radius: 20px;
+}
+input{
+    border-radius: 21px;
+    border: 5px solid grey;
+    font-size: 34px;   
+}
